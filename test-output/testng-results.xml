@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-23T11:44:58 IST" name="Functional" finished-at="2025-08-23T11:45:30 IST" duration-ms="31072">
+    <groups>
+    </groups>
+    <test started-at="2025-08-23T11:44:58 IST" name="FunctionalTestCases" finished-at="2025-08-23T11:45:30 IST" duration-ms="31072">
+      <class name="com.wipro.testing.TestNgTestCase">
+        <test-method signature="launchbrowser()[pri:0, instance:com.wipro.testing.TestNgTestCase@1a45193b]" started-at="2025-08-23T11:44:59 IST" name="launchbrowser" finished-at="2025-08-23T11:45:14 IST" duration-ms="15577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="login()[pri:0, instance:com.wipro.testing.TestNgTestCase@1a45193b]" started-at="2025-08-23T11:45:14 IST" name="login" finished-at="2025-08-23T11:45:29 IST" duration-ms="15403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.wipro.testing.TestNgTestCase -->
+    </test> <!-- FunctionalTestCases -->
+  </suite> <!-- Functional -->
+</testng-results>
