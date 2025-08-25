@@ -8,7 +8,7 @@
   <test name="FunctionalTestCases">
  
     <classes>
-       <class name="August19Lab.LoginModify"/>
+       <class name="com.wipro.testing.TestNglab"/>
        </classes>
   </test>
  </suite>
